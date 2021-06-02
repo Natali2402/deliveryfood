@@ -1,1 +1,3 @@
-# deliveryfood
+---
+permalink: index.html
+---
